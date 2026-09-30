@@ -1,17 +1,9 @@
-# rekenmachine
+# Celal Rekenmachine
 
-A new Flutter project.
+Een eenvoudige en overzichtelijke rekenmachine app gebouwd in **Flutter**.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Functionaliteiten
+* Twee invoervelden voor getallen.
+* Basisbewerkingen: Optellen (`+`), Aftrekken (`-`), Vermenigvuldigen (`x`) en Delen (`/`).
+* Ingebouwde foutafhandeling (zoals waarschuwingen bij lege velden of delen door nul).
+* Een "Opnieuw" knop om alles in één keer te wissen.
